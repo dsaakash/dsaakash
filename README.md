@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://aakashappsolutions.com)
+[![MasterHead](https://github.com/dsaakash/dsaakash/blob/main/aakash.jpg)](https://aakashappsolutions.com)
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate Full Stack Mobile developer & Data Science Enthusiast from India</h3>
 
