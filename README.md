@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aakashappsolutions.com/](https://aakashappsolutions.com/)
 
-- 💬 Ask me about **Android,DataScience,React,Django,Machine-Learning,Data-Analysis,Data-Scientist**
+- 💬 Ask me about **DataScience,Django,Flutter,Machine-Learning,Data-Analysis,Deep-Learning,NLPData-Scientist**
 
 - 📫 How to reach me **savantaakash322@gmail.com**
 
